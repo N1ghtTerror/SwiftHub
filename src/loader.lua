@@ -10,9 +10,7 @@ if not scriptPath then
     return
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/N1ghtTerror/SwiftHub/refs/heads/main/src/init.lua"))()
-
-local BASE_URL = getgitpath("games")
+local BASE_URL = "https://raw.githubusercontent.com/N1ghtTerror/SwiftHub/refs/heads/main/src/games/"
 local source = game:HttpGet(BASE_URL .. scriptPath)
 local chunk, err = loadstring(source)
 
