@@ -1,13 +1,12 @@
 local Games = {
-    [0987654321] = "game1.lua",
-    [1234567890] = "game2.lua",
+	[124216119978534] = "RideAPet.lua",
 }
 
 local scriptPath = Games[game.PlaceId]
 
 if not scriptPath then
-    warn(("Unsupported game (PlaceId: %d)"):format(game.PlaceId))
-    return
+	warn(("Unsupported game (PlaceId: %d)"):format(game.PlaceId))
+	return
 end
 
 local BASE_URL = "https://raw.githubusercontent.com/N1ghtTerror/SwiftHub/refs/heads/main/src/games/"
