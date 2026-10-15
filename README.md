@@ -2,7 +2,7 @@
 
 ## 🎮・Supported Games
 
-> 🟢 **Ride A Pet** > [🎮 Play Ride A Pet](https://www.roblox.com/games/124216119978534/Ride-A-Pet)
+🟢 **Climb For Animals Eggs** > [🎮 Play Game](https://www.roblox.com/games/start?placeId=85738654635245)
 
 ---
 
