@@ -1,6 +1,7 @@
 local Games = {
 	[124216119978534] = "RideAPet.lua",
 	[85738654635245] = "ClimbForAnimalsEggs.lua",
+	[120219252362013] = "ThrowFoodForAnimals.lua",
 }
 
 local scriptPath = Games[game.PlaceId]
