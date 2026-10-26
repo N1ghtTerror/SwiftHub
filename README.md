@@ -1,11 +1,5 @@
 # ⚡ SwiftHub
 
-## 🎮・Supported Games
-
-**Climb For Animals Eggs** > [🎮 Play Game](https://www.roblox.com/games/start?placeId=85738654635245)
-
----
-
 ## 🚀・Loader
 
 ```lua
